@@ -5,7 +5,7 @@ A minesweeper game I wrote when I was bored
 ## How to play
 
 - Left click to reveal a square
-- Right click to flag or unflag a square
+- Right click to flag or unflag a square (command+click or two finger click on Mac)
 
 ## Customise
 
